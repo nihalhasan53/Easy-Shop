@@ -11,4 +11,4 @@ const ProductsContainer =()=>
     )
 }
 
-export function ProductsContainer;
+export default ProductsContainer;

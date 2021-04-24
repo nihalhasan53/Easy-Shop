@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View ,ActivityIndicator} from 'react-native';
-import { ProductsContainer } from './Screens/Products/ProductsContainer';
+import ProductsContainer from './Screens/Products/ProductsContainer';
 
 export default function App() {
   return (
